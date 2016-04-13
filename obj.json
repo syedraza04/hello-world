@@ -1,0 +1,12 @@
+[
+	{
+		"fname":"Ankuar", 
+		"lastname":"Desai",
+		"selfie":"th.jpg"	
+	},
+	{"fname":"Mayuran", "lastname":"M","selfie":"twitter.jpg"	},
+	{"fname":"Emmunel", "lastname":"E","selfie":"my.svg"	},
+	{"fname":"ali", "lastname":"A","selfie":"call.png"	},
+	{"fname":"raza", "lastname":"R", "selfie":"th.jpg"},
+	{"fname":"hakim", "lastname":"H","selfie":"my.svg"	}
+]
